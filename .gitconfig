@@ -1,0 +1,8 @@
+[user]
+	name = Alex Gallichotte
+	email = alex.gallichotte@gmail.com
+[core]
+	autocrlf = false
+	excludesfile = ~/.gitignore
+[push]
+	default = matching

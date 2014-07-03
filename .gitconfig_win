@@ -1,0 +1,14 @@
+[user]
+	name = Alex Gallichotte
+	email = agallichotte@nationalresearch.com
+[merge]
+	tool = kdiff3
+[mergetool "kdiff3"]
+	path = C:/Program Files (x86)/KDiff3/kdiff3.exe
+[core]
+	autocrlf = true
+	excludesfile = ~/.gitignore
+[push]
+	default = matching
+[credential]
+	helper = !'C:\\Users\\agallichotte\\AppData\\Roaming\\GitCredStore\\git-credential-winstore.exe'
