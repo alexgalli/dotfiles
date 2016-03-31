@@ -2,6 +2,7 @@
 	name = Alex Gallichotte
 	email = alex.gallichotte@gmail.com
 [core]
+    editor = vim
 	autocrlf = false
 	excludesfile = ~/.gitignore
 [push]
